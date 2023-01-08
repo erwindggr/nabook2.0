@@ -1,0 +1,117 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "imgurl": "https://www.dpreview.com/files/p/articles/6096287211/DLCS1672-Edit.jpeg",
+      "brand": "razer",
+      "title": "razer blade 14",
+      "price": "30.000.000",
+      "disc": "20.000.000",
+      "description": "Experience cutting-edge power with the newly released Intel® Core™ i7 processor, or upgrade it to a Core i9 for unrivalled performance to take on the most demanding gaming and creative tasks. Intel’s 12th Gen processors bring a revolutionary new design with a performance hybrid architecture that combines performance-cores with efficient-cores, offering users the freedom to chat, browse, stream, edit, record, and play. Integrated Killer® Wi-Fi 6E AX16900 (Gig+) delivers the next generation Wi-Fi technology with packet prioritization for a better gaming experience."
+    },
+    {
+      "id": 2,
+      "imgurl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/10/2/af62d9ab-9fd7-46ce-ba34-b0c2678c6efd.png",
+      "brand": "apple",
+      "title": "macbook air m2",
+      "price": "23.000.000",
+      "disc": "18.000.000",
+      "description": "Easy to learn. Astoundingly powerful. Battery life beyond belief. Mac is designed to let you work, play, and create in ways you never imagined. It comes loaded with apps that are ready to go right out of the box. Free, regular software updates keep things up to date and running smoothly. And if you already have an iPhone, it feels familiar from the moment you turn it on."
+    },
+    {
+      "id": 3,
+      "imgurl": "https://cdn.eraspace.com/media/catalog/product/m/a/macbook_pro_m2_2022_space_grey_1.jpg",
+      "brand": "apple",
+      "title": "Macbook Pro",
+      "price": "30.000.000",
+      "disc": "24.000.000",
+      "description": "Macbook Pro 14\" 2020"
+    },
+    {
+      "id": 4,
+      "imgurl": "https://www.cnet.com/a/img/2022/06/01/fddc7977-232b-4c3f-ac7d-9df52757ad12/razer-blade-15-2022-1050289.jpg",
+      "brand": "razer",
+      "title": "Razer Blade 15",
+      "price": "30.000.000",
+      "disc": "",
+      "description": "Razer Blade 15\" 2023"
+    },
+    {
+      "id": 5,
+      "imgurl": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/016779f0-9da7-11eb-b7df-dda250c5f4f4",
+      "brand": "asus",
+      "title": "Asus Zephyrus G15",
+      "price": "20.000.000",
+      "disc": "",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "imgurl": "https://cdn.eraspace.com/pub/media/wysiwyg/artikel/Tahun_2022/Desember/ipadpro-2.jpg",
+      "brand": "apple",
+      "title": "Ipad Pro M2",
+      "price": "15.000.000",
+      "disc": "",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "imgurl": "https://cdn.antaranews.com/cache/800x533/2021/08/15/mi-pad-5-696x696_copy_1648x1648-01.jpeg",
+      "brand": "xiaomi",
+      "title": "Xiaomi Pad 5",
+      "price": "6.000.000",
+      "disc": "5.000.000",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "imgurl": "https://cdn4.uzone.id/assets/uploads/UZONEINC/gadget/Lenovo/Lenovo_ThinkPad_X1/Lenovo%20ThinkPad%20X1.jpg",
+      "brand": "lenovo",
+      "title": "Thinkpad X1 Carbon",
+      "price": "30.000.000",
+      "disc": "10.000.000",
+      "description": "Brand New"
+    },
+    {
+      "id": 9,
+      "imgurl": "https://media.cnn.com/api/v1/images/stellar/prod/210804125008-razer-blade-15-lead.jpg?q=w_4032,h_2268,x_0,y_0,c_fill",
+      "brand": "razer",
+      "title": "Razer Blade 15 Pro",
+      "price": "30.000.000",
+      "disc": "",
+      "description": "Laptop Gaming"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "fullname": "Erwin Gunawan",
+      "email": "account1@gmail.com",
+      "password": "Password"
+    },
+    {
+      "id": 2,
+      "fullname": "Calvina Veronica",
+      "email": "account2@gmail.com",
+      "password": "Password"
+    },
+    {
+      "id": 3,
+      "fullname": "Darwin Gunawan",
+      "email": "account3@gmail.com",
+      "password": "Password"
+    },
+    {
+      "id": 4,
+      "fullname": "Odin Pedin",
+      "email": "account4@gmail.com",
+      "password": "Password"
+    },
+    {
+      "id": 5,
+      "fullname": "Calvina Calvina",
+      "email": "calvina@gmail.com",
+      "password": "Password"
+    }
+  ]
+}
